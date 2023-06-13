@@ -1,0 +1,16 @@
+{
+  "name": "firstserver",
+  "version": "1.0.0",
+  "description": "My first web server using nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web",
+    "server"
+  ],
+  "author": "Onunwor Earl",
+  "license": "ISC"
+}
